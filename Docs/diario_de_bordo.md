@@ -36,3 +36,45 @@ int8_t:
 Assim, quando escolhemos o tipo uint8_t podemos escrever valores de 0 a 255, já no tipo int8_t os valores vão de -128 a 127.  
         
        Hoje foi concluído o fluxograma do sistema, esse é um fluxograma inicial que pode apresentar erros de lógica na criação do sistema.
+##Dia 11/08/2026 - Dia 3 estudando forma de trabalhar com variavel int_8
+-	Criando um script para entender o funcionamento de uma variável int_8, para construção desse script foi utilizado as bibliotecas:
+	 <inttypes.h> Biblioteca de formatação e exibição de numeros inteiros
+	 <stdint.h> Bibliteca para se trabalhar com numeros inteiros.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
